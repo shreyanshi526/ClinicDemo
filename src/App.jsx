@@ -3,6 +3,9 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Landing from './landing';
 import Appbar from './Appbar';
 import Services from './services';
+import AppDownload from './AppDownload';
+import LeadingHealthcare from './LeadingHealthcare';
+import Testimonials from './Testimonials';
 
 
 function App() {
@@ -12,6 +15,9 @@ function App() {
     <Appbar></Appbar>
     <Landing></Landing>
     <Services></Services>
+    <LeadingHealthcare></LeadingHealthcare> 
+    <AppDownload></AppDownload>
+    <Testimonials></Testimonials>
     </>
   )
 }
