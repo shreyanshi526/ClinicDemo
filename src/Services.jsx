@@ -25,7 +25,7 @@ const Services = () => {
                         fontSize: "1.3vmax",
                         lineHeight: "1.7vmax",
                         alignContent: "center",
-                        color: "#7D7987",
+                        color: "#7D7987",   
                         marginLeft: "-1vmax"
                     }}>We provide to you the best choiches for you. Adjust it to your health needs and make sure your undergo treatment
                         <br /> &nbsp;&nbsp;&nbsp;    with our highly qualified doctors you can consult with us which type of service is suitable for your health

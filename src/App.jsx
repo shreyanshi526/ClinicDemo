@@ -6,6 +6,8 @@ import Services from './services';
 import AppDownload from './AppDownload';
 import LeadingHealthcare from './LeadingHealthcare';
 import Testimonials from './Testimonials';
+import Latest from './Latest';
+import Footer from './Footer';
 
 
 function App() {
@@ -18,6 +20,8 @@ function App() {
     <LeadingHealthcare></LeadingHealthcare> 
     <AppDownload></AppDownload>
     <Testimonials></Testimonials>
+    <Latest></Latest>
+    <Footer></Footer>
     </>
   )
 }
